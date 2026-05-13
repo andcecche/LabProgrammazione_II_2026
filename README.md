@@ -37,13 +37,16 @@ Alternativamente, potete anche scrivermi per fissare un appuntamento come ricevi
 - **Lezione 5** (17/04/2026):
      -  Distribuzioni, Matplotlib e Seaborn | [materiale_lezione](materiale_lezioni/Lezione5)
 
-- **Lezione 6** (17/04/2026):
+- **Lezione 6** (21/04/2026):
      -  Cosa avanzate di Pandas, Matplotlib e Seaborn | [materiale_lezione](materiale_lezioni/Lezione6)
 
-- **Lezione 7** (17/04/2026):
+- **Lezione 7** (24/04/2026):
      -  Scipy | [materiale_lezione](materiale_lezioni/Lezione7)
 
-- **Lezione 7** (17/04/2026):
+- **Lezione 8** (28/04/2026):
+     -  Bervemente Scikitlearn Plotly e poi esercizi| [materiale_lezione](materiale_lezioni/Lezione8)
+ 
+- **Tutorato** (05/05/2026):
      -  Bervemente Scikitlearn Plotly e poi esercizi| [materiale_lezione](materiale_lezioni/Lezione8)
 
 
