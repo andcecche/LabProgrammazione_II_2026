@@ -64,7 +64,9 @@ Importante: fate l'upload degli esercizi man mano che li fate, un repository con
 Ricordo che il link al repository va consegnato entro il giorno dell'esame.
 
 Sessione Estiva:
--
+- 08/06/2026 in aula 4_INF_01 edificio D (50 posti) + aula 4_INF_02 edificio D (16 posti)  ore 14:00  
+- 22/06/2026 in aula 4_INF_01 edificio D (50 posti) + aula 4_INF_02 edificio D (16 posti)  ore 14:00  
+- 14/07/2026 in aula 4_INF_01 edificio D (50 posti) + aula 4_INF_02 edificio D (16 posti)  ore 14:00 
            
 
 
