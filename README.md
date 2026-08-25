@@ -2,7 +2,7 @@
 
 Benvenuto/a in questo repository! In questa cartella sono raccolte tutte le risorse didattiche e gli esercizi svolti relativi al corso, suddivisi in modo chiaro ed ordinato per ciascuna lezione.
 
----
+----
 
 ## 📁 Struttura del Repository
 
