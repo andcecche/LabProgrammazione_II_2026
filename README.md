@@ -1,4 +1,6 @@
 # Corso di Formazione — Materiale di Studio ed Esercizi
+## 📌 Note Aggiuntive
+* **Leggere prima di continuare:** [Il repository è stato pensato al fine di essere chiaro e comprensibile. Ho aggiunto una cartella con le automazioni di Github al fine di vedere se i vari programmi funzionano senza doverli eseguire manualmente: è GitHub ad occuparsi di farli runnare e come possibili exit da pallino rosso se sono presenti errori nei codici, spunta se tutti i codici sono terminati con successo ]
 
 Benvenuto/a nel repository ufficiale del corso. In questo spazio sono organizzati in modo sistematico i notebook di lavoro, le esercitazioni pratiche, il materiale didattico e le prove d'esame.
 
@@ -59,3 +61,8 @@ La directory principale è suddivisa nelle seguenti macro-sezioni:
 │       ├── 📓 8.1_Scikitlearn.ipynb
 │       └── 📓 8.2_plotly.ipynb
 └── 📌 README.md
+
+---
+
+## 📌 Note Aggiuntive
+* **LEGGERE:** [Il repository è stato pensato al fine di essere chiaro e comprensibile. Ho aggiunto una cartella con le automazioni di Github al fine di vedere se i vari programmi funzionano senza doverli eseguire manualmente: è GitHub ad occuparsi di farli runnare e come possibili exit da pallino rosso se sono presenti errori nei codici, spunta se tutti i codici sono terminati con successo ]
